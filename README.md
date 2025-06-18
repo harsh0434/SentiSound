@@ -332,3 +332,7 @@ For questions, issues, or feature requests:
 ---
 
 **Made with ❤️ for emotion detection and analysis**
+
+![image](https://github.com/user-attachments/assets/53bb5052-d31e-46b1-901f-f58effac7d8e)
+![image](https://github.com/user-attachments/assets/84d3ccd9-9c0d-4b9e-8d36-568f874070ca)
+![image](https://github.com/user-attachments/assets/832a76f5-1fe2-4a20-8d6e-c80bc5c6e92a)
